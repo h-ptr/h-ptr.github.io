@@ -1,7 +1,8 @@
 ---
 title: The Word - God is Love
-language: en
-url: /en/index.html
+lang: en
+id: index
+url: /en/
 ---
 
 ## 1 John 4

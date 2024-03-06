@@ -1,7 +1,8 @@
 ---
 title: Слово - Бог есть Любовь
-language: ru
-url: /ru/index.html
+lang: ru
+id: index
+url: /ru/
 ---
 
 ## 1-е Иоанна 4
